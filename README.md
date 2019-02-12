@@ -19,3 +19,9 @@ Travail pratique #2 modification d'un programme/logiciel
 + fournir des informations d'exécution dans la sortie d'erreur `stderr` lorsque le symbole TEMPS est défini;
 + la fonction malloc doit être utiliser;
 + 
+
+### Vous devez avoir votre propre projet dans votre gestionnaire de version préféré :
++ le fuseau horaire doit être correctement configuré;
++ le nom du projet doit être en minustcule et sans faute;
++ CP.txt avec votre code permanenent doit être présent à la racine;
++ vous n'avez pas à créer de structure pour ce travail;
