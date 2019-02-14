@@ -37,3 +37,17 @@ Travail pratique #2 modification d'un programme/logiciel
 + le nom du projet doit être en minustcule et sans faute;
 + les utilisateurs de GitLab doivent s'assurer que la sécurité soit adéquate;
 + vous n'avez pas à créer de répertoire pour ce travail;
+
+
+# Barème de correction
+
+| Critère | Sous-critère | Points |
+| ------- |:------------ | ------:|
+| Fonctionnabilité  | 5 à 10 tests seront lancés (comparaison binaire) | 6.0 |
+| Compilation       | sans avertissement ni erreur                     | 1.0 |
+| Git clone         | récupération (droit lecture, écriture)           | 1.0 |
+| Qualité           | temps d'exécution (performance) et code          | 2.0 |
+| Directives        | création de code.txt                             | 0.5 |
+| Makefile          | <ul><li>make</li><li>make clean</li><li>make data</li><li>make test</li><li>make resultat</li></ul> | <ul><li>1.0</li><li>0.5</li><li>1.0</li><li>0.5</li><li>0.5</li></ul> |
+| Markdown          | README.md                                        | 1.0 |
+| **Total**         |                                                  |  15 |
