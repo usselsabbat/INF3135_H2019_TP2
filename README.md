@@ -1,7 +1,7 @@
 # INF3135_H2019_TP2
 Travail pratique #2 modification d'un programme/logiciel
 
-### Toutes les informations devront être ajoutées au `wiki` et questions à la section `issues`
+### Toutes les informations devront être ajoutées au `wiki` et les questions à la section `issues`
  + aucune question par courriel, toutes les questions devrons être posées dans le gestionnaire de version;
  + vous pouvez guider vos collègues avec des réponses; maximum 5 interventions;
  + la qualité des interventions sera notée;
