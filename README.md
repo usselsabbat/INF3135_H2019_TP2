@@ -2,7 +2,7 @@
 Travail pratique #2 modification d'un programme/logiciel
 
 ### Toutes les informations devront être ajoutées au `wiki` et les questions à la section `issues`
- + aucune question par courriel, toutes les questions devrons être posées dans le gestionnaire de version;
+ + aucune question par courriel, toutes les questions devront être posées dans le gestionnaire de version;
  + vous pouvez guider vos collègues avec des réponses; maximum 5 interventions;
  + la qualité des interventions sera notée;
  + la qualité du francais sera aussi notée;
