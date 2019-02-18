@@ -1,5 +1,6 @@
 # Travail pratique 2
 
+## Objectifs
   L'objectif est de vous initier à la programmation avec le langage C, en  manipulant
   des données, des fichiers, ainsi que la gestion des `arguments` et `options` provenant de la ligne de commande.
 
@@ -11,7 +12,7 @@
   reviendra souvent.  Avoir les bons réflexes et la bonne stratégie afin de résoudre un problème, vous garantira à coup sûr
   des résultats à la hauteur de vos attentes.
 
-# Description du travail
+## Description du travail
 
   Le programme doit découvrir de nouveaux `nombres parfaits` contenus dans un intervalle composé d’entiers naturels.
   ```math
@@ -19,19 +20,22 @@
   ```
   Un nombre est dit parfait lorsque la somme des tous ses diviseurs (excluant lui-même bien sûr) est égal à lui-même.
 
-# Qualité du livrable
+## Qualité du livrable
 
 ### Livrer un logiciel parfait est exigé, nous allons donc mettre un peu plus de temps afin de mieux comprendre et livrer un produit de grande qualité.
 
- + toutes les fonctionnalités du `TP1` doivent être présentes et réparées.
+ + toutes les fonctionnalités du `TP1` doivent être présentes et réparées;
  + le fichier Makefile doit être présent et fonctionnel;
  + le fichier `cp.txt` doit contenir votre code permanent doit être présent à la racine de votre projet;
  + aucune librairie non standard; `getopt.h` n'est pas accepté;
  + le fichier `tp2.c` doit contenir uniquement la fonction main();
  + un fichier `outils.h` et un fichier `outils.c` doit exister;
+ + tous les fichiers devront être dans un format linux.
 
-### Tous les tests contenus dans le fichier `inf3135-h2019-tp1.correction` doivent être exécutés sans problème par le script `evaluer.sh`.
+## Fichier des tests
+ + Tous les tests contenus dans le fichier `inf3135-h2019-tp1.correction` doivent être exécutés sans problème par le script `evaluer.sh`.
 
+## Exigences spécifiques
  + toutes les informations ou demandes devront être ajoutées au `wiki` et les questions à la section `issues`;
  + aucune question par courriel;
  + toutes les questions devront être posées dans le gestionnaire de version;
@@ -47,7 +51,7 @@
 + le fuseau horaire doit être correctement configuré (Montréal);
 + le nom du projet doit être en minuscule et sans faute;
 + les utilisateurs de GitLab doivent s'assurer que la sécurité soit adéquate;
-+ vous n'avez pas à créer de répertoire pour ce travail;
++ vous n'avez pas à créer de répertoire pour ce travail.
 
 # Barème de correction
 
@@ -62,4 +66,3 @@
 | Reflexion         | Qualité des réponses                             | 1.0 |
 | Français          | Français, comprehension                          | 1.0 |
 | **Total**         |                                                  |  15 |
-
