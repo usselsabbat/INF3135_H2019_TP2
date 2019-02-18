@@ -1,4 +1,4 @@
-# Travail pratique 2
+# Travail pratique 2 modification d'un programme/logiciel
 
 ## Objectifs
   L'objectif est de vous initier à la programmation avec le langage C, en  manipulant
