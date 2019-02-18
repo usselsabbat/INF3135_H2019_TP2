@@ -33,7 +33,7 @@
  + aucune librairie non standard; `getopt.h` n'est pas accepté;
  + le fichier `tp2.c` doit contenir uniquement la fonction main();
  + un fichier `outils.h` et un fichier `outils.c` doit exister;
- + tous les fichiers devront être dans un format linux.
+ + tous les fichiers devront être dans un format `UNIX`.
 
 ## Fichier de tests
  + Tous les tests contenus dans le fichier `inf3135-h2019-tp1.correction` doivent être exécutés sans problème par le script `evaluer.sh`.
@@ -62,15 +62,14 @@
   À partir de minuit, une pénalité de **3 points par jour** de retard sera appliquée.
 
   La remise se fait **obligatoirement** par l'intermédiaire de l'une des plateformes suivantes :
-  + `GitHub https://github.com/`___;
-  + `GitLab https://gitlab.com/`___.
+  + `GitHub https://github.com/____`;
+  + `GitLab https://gitlab.com/____`.
   
   **Aucune remise par courriel ne sera acceptée** (le travail sera considéré comme non remis).
 
-  Le nom de votre projet doit être `inf3135-h2019-tp2` (en minuscules). Vous
-  devez donner un accès en mode **lecture/écriture** (pas **admin**) à
-  l'utilisateur `guyfrancoeur` (moi-même). Ceci me permettra de déposer directement
-  dans vos projets votre note pour le travail ainsi que mes commentaires.
+  Le nom de votre projet doit être `inf3135-h2019-tp2` (en minuscules). Vous devez donner un accès en
+  mode **lecture/écriture** (pas **admin**) à l'utilisateur `guyfrancoeur` (moi-même). Ceci me permettra
+  de déposer directement dans vos projets votre note pour le travail ainsi que mes commentaires.
   
   La branche `master` sera celle `clonée` et sera celle qui sera évaluée.
 
@@ -94,5 +93,5 @@
 | Makefile          |                                                  | 1.0 |
 | Contribution      | wiki et issues                                   | 1.0 |
 | Réflexion         | Qualité des réponses                             | 1.0 |
-| Français          | Français, comprehension                          | 1.0 |
+| Français          | Français, compréhension                          | 1.0 |
 | **Total**         |                                                  |  15 |
