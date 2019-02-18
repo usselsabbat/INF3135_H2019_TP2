@@ -11,6 +11,9 @@
   Dans le `TP2`, nous ajoutons une composante essentielle, les tests. Automatisé des tâches répétitives est quelque chose qui
   reviendra souvent.  Avoir les bons réflexes et la bonne stratégie afin de résoudre un problème, vous garantira à coup sûr
   des résultats à la hauteur de vos attentes.
+  
+  Préalablement au tests, vous allez modifier votre programme pour devienne sans faille.  La compilation 
+  conditionnelle sera expérimenté dans ce travail.  Avec ceci il sera possible d'activer ou pas la production de traces.
 
 ## Description du travail
 
@@ -53,6 +56,33 @@
 + les utilisateurs de GitLab doivent s'assurer que la sécurité soit adéquate;
 + vous n'avez pas à créer de répertoire pour ce travail.
 
+# Remise
+
+  La totalité de votre travail doit être remis au plus tard le **9 mars 2019** à **23h59**. 
+  À partir de minuit, une pénalité de **3 points par jour** de retard sera appliquée.
+
+  La remise se fait **obligatoirement** par l'intermédiaire de l'une des plateformes suivantes :
+  + `GitHub https://github.com/`___;
+  + `GitLab https://gitlab.com/`___.
+  
+  **Aucune remise par courriel ne sera acceptée** (le travail sera considéré comme non remis).
+
+  Le nom de votre projet doit être `inf3135-h2019-tp2` (en minuscules). Vous
+  devez donner un accès en mode **lecture/écriture** (pas **admin**) à
+  l'utilisateur `guyfrancoeur` (moi-même). Ceci me permettra de déposer directement
+  dans vos projets votre note pour le travail ainsi que mes commentaires.
+  
+  La branche `master` sera celle `clonée` et sera celle qui sera évaluée.
+
+  Votre projet devrait minimalement contenir les fichiers suivants :
+
+- Un fichier `cp.txt` contenant votre code permanent en majuscule et complet (requis pour la publication des résultats);
+- Un fichier `tp2.c` contenant le code source de votre projet, ainsi que votre fonction `main`;
+- Un fichier `README.md` avec le titre du projet, les auteurs, les exemples, etc;
+- Un fichier nommé `Makefile`;
+- Un fichier `.gitignore`;
+- Un fichier `evaluer.sh`.
+
 # Barème de correction
 
 | Critère | Sous-critère | Points |
@@ -63,6 +93,6 @@
 | Qualité           | temps d'exécution (performance) et code          | 3.0 |
 | Makefile          |                                                  | 1.0 |
 | Contribution      | wiki et issues                                   | 1.0 |
-| Reflexion         | Qualité des réponses                             | 1.0 |
+| Réflexion         | Qualité des réponses                             | 1.0 |
 | Français          | Français, comprehension                          | 1.0 |
 | **Total**         |                                                  |  15 |
