@@ -25,7 +25,7 @@
 ### Livrer un logiciel parfait est exigé, nous allons donc mettre un peu plus de temps afin de mieux comprendre et livrer un produit de grande qualité.
 
  + toutes les fonctionnalités du `TP1` doivent être présentes et réparées;
- + le fichier Makefile doit être présent et fonctionnel;
+ + le fichier `Makefile` doit être présent et fonctionnel;
  + le fichier `cp.txt` doit contenir votre code permanent doit être présent à la racine de votre projet;
  + aucune librairie non standard; `getopt.h` n'est pas accepté;
  + le fichier `tp2.c` doit contenir uniquement la fonction main();
