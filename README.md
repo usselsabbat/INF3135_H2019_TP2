@@ -32,7 +32,7 @@
  + un fichier `outils.h` et un fichier `outils.c` doit exister;
  + tous les fichiers devront être dans un format linux.
 
-## Fichier des tests
+## Fichier de tests
  + Tous les tests contenus dans le fichier `inf3135-h2019-tp1.correction` doivent être exécutés sans problème par le script `evaluer.sh`.
 
 ## Exigences spécifiques
