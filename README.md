@@ -32,11 +32,48 @@
  + le fichier `cp.txt` doit contenir votre code permanent doit être présent à la racine de votre projet;
  + aucune librairie non standard; `getopt.h` n'est pas accepté;
  + le fichier `tp2.c` doit contenir uniquement la fonction main();
- + un fichier `outils.h` et un fichier `outils.c` doit exister;
+ + un fichier `outils.h` et un fichier `outils.c` doit exister et contenir les fonctions nécessaire à votre programme;
  + tous les fichiers devront être dans un format `UNIX`.
+ 
+## Exécution et performance
+> > + Tous les test auront une limite de temps;
+> > + Chaque exécution ne pourra depasser au maximum 99 secondes;
+> > + Il est aussi possible qu'un test soit limité à 10 sec.
 
-## Fichier de tests
- + Tous les tests contenus dans le fichier `inf3135-h2019-tp1.correction` doivent être exécutés sans problème par le script `evaluer.sh`.
+## Automatisation des tests unitaire et de regression
+ + Tous les tests contenus dans le fichier `inf3135-h2019-tp1.correction` doivent être exécutés sans problème par le script `evaluer.sh`;
+ + Il existe plusieurs facon de faire les tests. Nous utilisons le `bash` comme la façon de faire;
+ + Vous devez produire quelque chose de similaire à `output`
+
+#### output
+~~~~
+0 : echec
+1 : reussi 1 pts
+2 : reussi 1 pts
+3 : reussi 1 pts
+4 : reussi 1 pts
+5 : echec
+6 : reussi 1 pts
+7 : reussi 2 pts
+8 : reussi 2 pts
+9 : echec
+10 : reussi 1 pts
+11 : echec
+12 : echec
+13 : reussi 1 pts
+14 : echec
+15 : echec
+16 : echec
+17 : echec
+18 : echec
+19 : echec
+20 : echec
+21 : echec
+22 : echec
+23 : echec
+Note (total) pour FRAG01010199 dans inf3135-h2019-tp1: 11
+FIN.
+~~~~
 
 ## Exigences spécifiques
  + toutes les informations ou demandes devront être ajoutées au `wiki` et les questions à la section `issues`;
@@ -58,7 +95,7 @@
 
 # Remise
 
-  La totalité de votre travail doit être remis au plus tard le **9 mars 2019** à **23h59**. 
+> >  La totalité de votre travail doit être remis au plus tard le **16 mars 2019** à **23h59**. 
   À partir de minuit, une pénalité de **3 points par jour** de retard sera appliquée.
 
   La remise se fait **obligatoirement** par l'intermédiaire de l'une des plateformes suivantes :
