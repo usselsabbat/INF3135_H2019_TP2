@@ -114,6 +114,7 @@ FIN.
 
 - Un fichier `cp.txt` contenant votre code permanent en majuscule et complet (requis pour la publication des résultats);
 - Un fichier `tp2.c` contenant le code source de votre projet, ainsi que votre fonction `main`;
+- Les fichiers `outils.h` et `outils.c` contenant le code source de vos fonctions;
 - Un fichier `README.md` avec le titre du projet, les auteurs, les exemples, etc;
 - Un fichier nommé `Makefile`;
 - Un fichier `.gitignore`;
@@ -123,12 +124,19 @@ FIN.
 
 | Critère | Sous-critère | Points |
 | ------- |:------------ | ------:|
-| Script (test)     | Script bash pour test `evaluer.sh`               | 2.0 |
-| Compilation       | sans avertissement ni erreur                     | 1.0 |
-| Fonctionnabilité  | 5 à 10 tests seront lancés (comparaison binaire) | 5.0 |
-| Qualité           | temps d'exécution (performance) et code          | 3.0 |
-| Makefile          |                                                  | 1.0 |
-| Contribution      | wiki et issues                                   | 1.0 |
-| Réflexion         | Qualité des réponses                             | 1.0 |
-| Français          | Français, compréhension                          | 1.0 |
-| **Total**         |                                                  |  15 |
+| Script (test)     | Script bash pour test `evaluer.sh`               |  2.0 |
+| Compilation       | sans avertissement ni erreur                     |  1.0 |
+| Fonctionnabilité  | 5 à 10 tests seront lancés (comparaison binaire) |  5.0 |
+| Qualité           | temps d'exécution (performance) et code          |  3.0 |
+| Makefile          | complet, simple, sans extra                      |  1.0 |
+| Contribution      | wiki et issues                                   |  1.0 |
+| Réflexion         | Qualité des réponses                             |  1.0 |
+| Français          | Français, compréhension                          |  1.0 |
+| Bonus             | remise avant le 9 mars 2019 23h59                |  1.0 |
+| **Total**         |                                                  | 16/15 |
+
+> > Le bonus ne peut pas être appliqué sur un autre travail.
+
+# TP3
+
+> > Le TP3 sera remis le dans la semaine du 10 mars 2019
