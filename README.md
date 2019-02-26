@@ -36,14 +36,14 @@
  + tous les fichiers devront être dans un format `UNIX`.
  
 ## Exécution et performance
-> > + Tous les test auront une limite de temps;
+> > + Tous les tests auront une limite de temps;
 > > + Chaque exécution ne pourra depasser au maximum 99 secondes;
 > > + Il est aussi possible qu'un test soit limité à 10 sec.
 
 ## Automatisation des tests unitaire et de regression
  + Tous les tests contenus dans le fichier `inf3135-h2019-tp1.correction` maintenant `inf3135-h2019-tp2.correction` doivent être exécutés sans problème par le script `evaluer.sh`;
  + Il existe plusieurs façons de faire les tests. Nous utilisons le `bash` dans ce travail;
- + Vous devez produire quelque chose de similaire à `output`
+ + Vous devez produire quelque chose de similaire à `output`.
 
 #### output
 ~~~~
@@ -71,14 +71,15 @@
 21 : echec
 22 : echec
 23 : echec
-Note (total) pour FRAG01010199 dans inf3135-h2019-tp1: 11
+Note (total) pour FRAG01010199 dans inf3135-h2019-tp2: 11
 FIN.
 ~~~~
 
 ## Exigences spécifiques
- + toutes les informations ou demandes devront être ajoutées au `wiki` et les questions à la section `issues`;
+ + tous compléments d'informations seront ajoutées au `wiki`;
+ + toutes les questions seront ajoutées à la section `issues`;
  + aucune question par courriel;
- + toutes les questions devront être posées dans le gestionnaire de version;
+ + toutes les questions devront être posées dans le bon fils (sujet pertinent);
  + vous pouvez guider vos collègues avec des réponses; maximum 3 interventions (questions ou réponses);
  + la qualité des interventions sera notée;
  + la qualité du français sera aussi notée;
