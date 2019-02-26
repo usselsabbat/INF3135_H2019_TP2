@@ -41,8 +41,8 @@
 > > + Il est aussi possible qu'un test soit limité à 10 sec.
 
 ## Automatisation des tests unitaire et de regression
- + Tous les tests contenus dans le fichier `inf3135-h2019-tp1.correction` doivent être exécutés sans problème par le script `evaluer.sh`;
- + Il existe plusieurs facon de faire les tests. Nous utilisons le `bash` comme la façon de faire;
+ + Tous les tests contenus dans le fichier `inf3135-h2019-tp1.correction` maintenant `inf3135-h2019-tp2.correction` doivent être exécutés sans problème par le script `evaluer.sh`;
+ + Il existe plusieurs façons de faire les tests. Nous utilisons le `bash` dans ce travail;
  + Vous devez produire quelque chose de similaire à `output`
 
 #### output
