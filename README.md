@@ -130,7 +130,7 @@ FIN.
 | Qualité           | temps d'exécution (performance) et code          |  3.0 |
 | Makefile          | complet, simple, sans extra                      |  1.0 |
 | Contribution      | wiki et issues                                   |  1.0 |
-| Réflexion         | Qualité des réponses                             |  1.0 |
+| Réflexion         | Qualité des questions, réponses                  |  1.0 |
 | Français          | Français, compréhension                          |  1.0 |
 | Bonus             | remise avant le 9 mars 2019 23h59                |  1.0 |
 | **Total**         |                                                  | 16/15 |
