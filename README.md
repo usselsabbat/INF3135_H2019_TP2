@@ -13,7 +13,7 @@
   des résultats à la hauteur de vos attentes.
   
   Préalablement au tests, vous allez modifier votre programme pour devienne sans faille.  La compilation 
-  conditionnelle sera expérimenté dans ce travail.  Avec ceci il sera possible d'activer ou pas la production de traces.
+  conditionnelle sera expérimenté dans ce travail.  Avec celle-ci il sera possible d'activer ou pas la production de traces.
 
 ## Description du travail
 
@@ -91,16 +91,21 @@ FIN.
 + le fuseau horaire doit être correctement configuré (Montréal);
 + le nom du projet doit être en minuscule et sans faute;
 + les utilisateurs de GitLab doivent s'assurer que la sécurité soit adéquate;
-+ vous n'avez pas à créer de répertoire pour ce travail.
++ vous n'avez pas à créer de répertoire pour vos sources dans ce travail.
 
 # Remise
 
-> >  La totalité de votre travail doit être remis au plus tard le **16 mars 2019** à **23h59**. 
-  À partir de minuit, une pénalité de **3 points par jour** de retard sera appliquée.
+> >  La totalité de votre travail :
+> >  doit être remis le **9 mars 2019** à **23h59** (avec possibilité de bonus)
+> >  ou
+> >  doit être remis au plus tard le **16 mars 2019** à **23h59**. 
+> >  Après cette date, une pénalité de **3 points par jour** de retard sera appliquée.
 
-  La remise se fait **obligatoirement** par l'intermédiaire de l'une des plateformes suivantes :
+  La remise se fait **obligatoirement** par l'intermédiaire de l'un des gestionnaires de versions suivants :
   + `GitHub https://github.com/____`;
   + `GitLab https://gitlab.com/____`.
+  
+> >  Votre projet doit être privé.
   
   **Aucune remise par courriel ne sera acceptée** (le travail sera considéré comme non remis).
 
@@ -115,7 +120,7 @@ FIN.
 - Un fichier `cp.txt` contenant votre code permanent en majuscule et complet (requis pour la publication des résultats);
 - Un fichier `tp2.c` contenant le code source de votre projet, ainsi que votre fonction `main`;
 - Les fichiers `outils.h` et `outils.c` contenant le code source de vos fonctions;
-- Un fichier `README.md` avec le titre du projet, les auteurs, les exemples, etc;
+- Un fichier `README.md` avec le titre du projet, votre approche (réflexion), vos inspirations, les auteurs (bibliographie), etc.;
 - Un fichier nommé `Makefile`;
 - Un fichier `.gitignore`;
 - Un fichier `evaluer.sh`.
