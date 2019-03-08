@@ -75,6 +75,35 @@ Note (total) pour FRAG01010199 dans inf3135-h2019-tp2: 11
 FIN.
 ~~~~
 
+> > Voici la variante que je propose pour le tp2 (simplifié et légèrement plus facile à travailler) :
+> > 
+> > [inf3135-h2019-tp2.correction](https://github.com/guyfrancoeur/INF3135_H2019_TP2/blob/master/inf3135-h2019-tp2.correction)
+> > 
+> > #### colonnes
+> > + 1 : points
+> > + 2 : temps maximum d'exécution
+> > + 3 : code de retour
+> > + 4 : description
+> > + 5 : commande
+> > 
+> > Idéalement vous devez ouvrir ce fichier et consommer les données contenues pour parvenir à tester votre programme de façon automatisé.
+> > 
+> > **Un exemple**
+> > 
+> > ```bash
+> > #!/bin/bash
+> > # evaluer.sh
+> > wget -q https://github.com/guyfrancoeur/INF3135_H2019_TP2/raw/master/inf3135-h2019-tp2.correction -O inf3135-h2019-tp2.correction
+> > if [ ! -f inf3135-h2019-tp2.correction ]
+> > then
+> >   exit 1
+> > else
+> >   #echo "fichier OK (garder cette ligne durant le developpement (enlever lors de la remise ou la production)"
+> > fi
+> > # on continue avec le reste du code ...
+> > ```
+
+
 ## Exigences spécifiques
  + tous compléments d'informations seront ajoutées au `wiki`;
  + toutes les questions seront ajoutées à la section `issues`;
